@@ -1,0 +1,37 @@
+body {
+  background: blue;
+  font-family: "Comic Sans MS", cursive;
+  color: blue;
+  margin: 5px;
+}
+
+#main-title {
+  font-size: 80px;
+  color: purple;
+  background: yellow;
+  border: 10px dashed purple;
+  text-align: center;
+  transform: rotate(15deg);
+}
+
+p {
+  font-size: 30px;
+  background: pink;
+  border: 7px solid black;
+  padding: 20px;
+  width: 60%;
+}
+
+nav {
+  margin-top: 100px;
+}
+
+.boxy-link {
+  display: inline-block;
+  background: orange;
+  color: purple;
+  border: 8px dotted blue;
+  padding: 25px;
+  margin: 30px;
+  font-size: 25px;
+}
